@@ -17,7 +17,7 @@ function fibonacci($number){
     }
 }
 
-echo "Fibonacci Series: First 15 Fibonacci numbers.\n";
+echo "Fibonacci Series printing(first 15 numbers) using a Function.\n";
 fibonacci(15);
 
 ?>
